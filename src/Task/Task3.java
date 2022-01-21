@@ -1,11 +1,11 @@
 package Task;
 
 import java.util.Scanner;
-
+//+
 public class Task3 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
-
+//delete unnecessary line
 
         System.out.println("Enter number:");
         int day = scanner.nextInt();
@@ -30,8 +30,8 @@ public class Task3 {
         else {
             System.out.println ("This day is missing");
         }
-
-
-
+//delete unnecessary line
+//delete unnecessary line
+//delete unnecessary line
     }
 }
