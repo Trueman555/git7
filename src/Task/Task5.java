@@ -1,7 +1,7 @@
 package Task;
 
 import java.util.Scanner;
-
+//+
 public class Task5 {
     public static void main(String[] args){
 
@@ -21,6 +21,7 @@ public class Task5 {
             case 5:
                 System.out.println("Spring");
                 break;
+                //text formatting
                 case 6:
             case 7:
             case 8:
