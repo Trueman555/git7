@@ -1,7 +1,8 @@
 package Task;
 
 import java.util.Scanner;
-
+//use text formatting - Ctrl+Alt+L
+//+
 public class Task4 {
     public static void main(String[] args) {
 
