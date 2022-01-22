@@ -7,7 +7,7 @@ public class Task4 {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter number:");
-        int day=scanner.nextInt();
+        int day = scanner.nextInt();
         switch (day) {
             case 1:
                 System.out.println("Monday");
@@ -15,12 +15,12 @@ public class Task4 {
             case 2:
                 System.out.println("Tuesday");
                 break;
-                case 3:
+            case 3:
                 System.out.println("Wednesday");
                 break;
             case 4:
                 System.out.println("Thursday");
-            break;
+                break;
             case 5:
                 System.out.println("Friday");
                 break;
@@ -30,8 +30,8 @@ public class Task4 {
             case 7:
                 System.out.println("Sunday");
                 break;
-                default:
-                    System.out.println("There is no such day");
+            default:
+                System.out.println("There is no such day");
 
         }
 
