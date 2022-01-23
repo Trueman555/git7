@@ -1,5 +1,5 @@
 package Cycle;
-
+//cool
 public class Cicle2Task1 {
 
     public static void main(String[] args) {
