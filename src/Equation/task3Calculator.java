@@ -31,6 +31,7 @@ public class task3Calculator {
                 answer = num1 / num2;
                 break;
         }
+        //you do not have a loop! Your's program will just finish, but I need it to work till I enter stop word
         System.out.print(num1 + " " + operator + " " + num2 + " = " + answer + "\n" + "Do you want to continue?");
 
 
