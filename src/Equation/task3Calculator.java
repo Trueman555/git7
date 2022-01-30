@@ -27,6 +27,7 @@ public class task3Calculator {
                 answer = num1 * num2;
                 break;
             case '/':
+                //division by 0?
                 answer = num1 / num2;
                 break;
         }
