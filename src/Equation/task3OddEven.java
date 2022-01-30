@@ -1,7 +1,7 @@
 package Equation;
 
 import java.util.Scanner;
-
+//+
 public class task3OddEven {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
