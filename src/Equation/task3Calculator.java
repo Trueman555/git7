@@ -43,6 +43,7 @@ public class task3Calculator {
             if (prover.equals("yes") ) {
                 agreement = true;
             }
+//use else. What if I type "something" instead of "yes", "no"?
             if (prover.equals("no") ) {
                 agreement = false;
             }
